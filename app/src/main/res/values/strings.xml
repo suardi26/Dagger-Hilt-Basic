@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger-Hilt-Basic</string>
+    <string name="String_to_inject">Ini adalah nilai String yang akan di-Inject ke 3</string>
+</resources>

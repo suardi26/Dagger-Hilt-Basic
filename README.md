@@ -2,7 +2,7 @@
 
 ### Library
 
- - Dagger Hilt Version = "2.44"
+ - Dagger Hilt Version = 2.44
 
 ### Software :
 
